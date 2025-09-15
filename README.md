@@ -1,5 +1,5 @@
-<h1 align="center">Jacob Aiden</h1>
-<p align="center">Responsive Personal Portfolio Website HTML CSS & JavaScript</p>
+<h1 align="center">Registration Form</h1>
+<p align="center">Sliding Sign In Sign Up Registration Form HTML CSS & JavaScript</p>
 <p align="center">CREATED BY.</p>
 
 ### <h1 align="center">[Shrawaan Thapa](https://github.com/shrawaanthapa)</h1>
