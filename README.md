@@ -30,4 +30,4 @@
 
 ![preview img](/preview.png)
 
-If you like this portfolio template don't forget give it a ⭐ 
+If you like this template don't forget give it a ⭐ 
